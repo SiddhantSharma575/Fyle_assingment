@@ -1,0 +1,39 @@
+.home_container {
+    display: flex
+}
+
+.hr_st {
+    height: 100vh;
+}
+
+.bt_st {
+    width: 100vw;
+}
+
+.right_home_top > h3 {
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-bottom: 1rem;
+}
+
+.right_home_top > div {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 3rem;
+    position: relative;
+}
+
+.right_home_top > div > input {
+    padding: 1rem;
+    font-size: 200;
+    margin: 1rem;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.right_home_top > div > img {
+    position: absolute;
+    left: 23rem;
+    cursor: pointer;
+}

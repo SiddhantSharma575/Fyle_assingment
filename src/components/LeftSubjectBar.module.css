@@ -1,0 +1,28 @@
+.left_container {
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+.left_top > h3 {
+    font-size: 200;
+    letter-spacing: 0.3;
+    margin: 0.5rem;
+}
+
+.left_top > input {
+    font-size: 200;
+    letter-spacing: 0.3;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.left_list {
+    display: flex;
+    flex-direction: column;
+}
+
+.left_list > span {
+    font-size: 200;
+    margin: 0.5rem;
+    cursor: pointer;
+}
